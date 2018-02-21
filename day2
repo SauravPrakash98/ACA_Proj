@@ -1,0 +1,24 @@
+ZSH- ZPRESTO
+URXVT/kitty (terminal emulators , for a better experience of command line )
+
+
+tmux
+
+VIM with vim-go
+(recommended plugins at "awesome-vim-plugins")
+
+
+terminal , shell ,tty
+
+
+read documentation of NIXos and arch linux
+
+
+Setting Environment :
+ZSH  (done)
+  PREZTO ( needed but not neccesary)
+go atom plugin (done)
+URXVT/Kitty ( to be done )
+VIM ( not neccesary now )
+
+Learn VIM

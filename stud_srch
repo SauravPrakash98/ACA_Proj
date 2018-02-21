@@ -1,0 +1,11 @@
+General Website:
+
+https://oa.cc.iitk.ac.in/Oa/Jsp/OAServices/IITk_SrchRes.jsp?typ=stud&numtxt=170001&sbm=Y
+
+https://oa.cc.iitk.ac.in/Oa/Jsp/OAServices/IITk_SrchRes.jsp\?typ\=stud\&numtxt\=170001\&sbm\=Y
+
+
+
+For displaying the important info :  awk '/: <\/b>/,/<\/p>/' roll1
+
+For cutting out a particular field : awk '/Name: <\/b>/,/<\/p>/' roll1 | cut -d \< -f-2 | cut -d \> -f2-
